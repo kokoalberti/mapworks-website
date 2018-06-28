@@ -89,7 +89,7 @@ h1 {
     display:inline;
     background-color:yellow;
     line-height:1.5em;
-
+    font-weight:300;
 }
 a {
     text-decoration:none;
@@ -120,6 +120,6 @@ hr {
 
 p#intro {
     font-size:0.7em;
-    line-height:1.3em;
+    line-height:1.4em;
     color:#555;
 }
